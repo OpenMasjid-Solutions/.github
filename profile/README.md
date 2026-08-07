@@ -105,10 +105,7 @@ Resources for this project were generously sponsored by **[An-Noor Institute](ht
   <a href="https://openmasjidsolutions.org">Website</a> ·
   <a href="https://discord.gg/MpPDbyQfaF">Discord</a> ·
   <a href="https://openmasjidsolutions.org/docs">Docs</a> ·
-  <a href="https://openmasjidsolutions.org/support-us">Support us</a> ·
-  <a href="https://www.instagram.com/openmasjidsolutions/">Instagram</a> ·
-  <a href="https://www.youtube.com/@OpenMasjidSolutions">YouTube</a> ·
-  <a href="https://x.com/openmasjid">X</a>
+  <a href="https://openmasjidsolutions.org/support-us">Support us</a>
 </p>
 
 <p align="center"><sub>Free, forever, for every masjid. · The software is <a href="https://github.com/OpenMasjid-Solutions/OpenMasjidOS/blob/master/LICENSE">AGPL-3.0</a></sub></p>
