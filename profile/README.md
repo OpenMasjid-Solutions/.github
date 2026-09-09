@@ -93,7 +93,7 @@ accept AGPL — the public tree always stays AGPL-3.0.
 
 ## Who builds and funds this
 
-Created by **Hasan Ismail**, with immense help from **Qari Ijaz** and **Osman Sayed**.
+Created by **Hasan Ismail**, with immense help from **Qari Ijaz** (Project Manager) and **Osman Sayed** (Lead Developer).
 
 <div align="center">
   <table>
